@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/theatharvshri" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.biG9UdrkNGTbvX1YvOvY4AHaHa?pid=ImgDet&rs=1" alt="theatharvshri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/theatharvshrivastava" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.hjYy7MIuknaBYZdWTjh3HQAAAA?pid=ImgDet&rs=1g" alt="theatharvshrivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/theatharvshrivastava" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.5RwXPrWqv58MznvrOo3_xAHaHw?pid=ImgDet&rs=1" alt="theatharvshrivastava" height="30" width="40" /></a>
+<a href="https://instagram.com/theatharvshrivastava" target="blank"><img align="center" src="https://www.clipartmax.com/max/m2i8m2d3i8i8A0m2/" alt="theatharvshrivastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

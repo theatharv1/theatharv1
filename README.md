@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/theatharvshri" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.biG9UdrkNGTbvX1YvOvY4AHaHa?pid=ImgDet&rs=1" alt="theatharvshri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/theatharvshrivastava" target="blank"><img align="center" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" alt="theatharvshrivastava" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theatharvshrivastava" target="blank"><img align="center" src="https://p7.hiclipart.com/preview/614/127/706/logo-food-and-health-lab-at-montana-state-university-graphic-design-insta.jpg" alt="theatharvshrivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/theatharvshrivastava" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.RtUCdYMuYVWPfryovD3tlQHaHa?pid=ImgDet&w=800&h=800&rs=1" alt="theatharvshrivastava" height="30" width="40" /></a>
 </p>
 

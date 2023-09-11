@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Atharv
-- 👀 I’m interested in web3 Projects, AR,VR,XR Development
-- 🌱 I’m currently learning solidity, python, AR Development.
-- 💞️ I’m looking to collaborate on AR, Web3 Projects
-- 📫 How to reach me - theatharvshrivastava@gmail.com
+
 <h1 align="center">Hi 👋, *I'm Atharv*</h1>
 <h3 align="center">I'm interested in web3 Projects, AR,VR,XR Development</h3>
 

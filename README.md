@@ -35,7 +35,8 @@
   <a href="https://x.com/theatharvshri">x</a> &nbsp;·&nbsp;
   <a href="https://t.me/theatharvshrivastava">telegram</a> &nbsp;·&nbsp;
   <a href="https://youtube.com/@unstoppable24x7">youtube</a> &nbsp;·&nbsp;
-  <a href="https://github.com/theatharv1">@theatharv1</a>
+  <a href="https://linkedin.com/in/theatharvshrivastava">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://github.com/theatharv1">github</a>
 </sub>
 
 </div>
